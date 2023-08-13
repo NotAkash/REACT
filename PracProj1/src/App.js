@@ -13,6 +13,9 @@ const concepts = [
 		description:
 			"Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Components can receive data via props, and they can render dynamic output using JSX.",
 	},
+
+
+    
 	{
 		title: "State",
 		image: stateImage,
